@@ -24,11 +24,5 @@ Ce dépôt contient le code, les expérimentations et les résultats associés a
 ├── dataset              # Dossier plus léger avec 20 images de Zendaya et Tom Holland  
 └── complete_dataset     # Dossier avec 100 images par célébrités
 
----
-
-**## Installation **
-
-git clone https://github.com/jausiphan/deep_learning_project_2026.git
-cd deep_learning_project_2026
 
 
